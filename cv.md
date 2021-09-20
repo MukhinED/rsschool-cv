@@ -12,6 +12,7 @@
 | september 2020 - now | TTK Engineering | Electronic engineer |
 ## Languages
 English: Basic
+
 Russian: Native
 ### Contacts 
 email: mukhined93@gmail.com
